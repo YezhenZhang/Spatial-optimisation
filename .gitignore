@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+.~*
+
+# Raw LFB incident files (too large for GitHub)
+data/fire_incident/fire_2009_17.csv
+data/fire_incident/fire_2018_onwards.xlsx
