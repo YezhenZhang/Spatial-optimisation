@@ -12,7 +12,7 @@ This project consists of four parts. The full and detailed description of the pr
 ├── data/               
 │   ├── borough/        # London borough boundaries
 │   ├── current_station/ # existing fire stations
-│   ├── fire_incident/  # cleaned fires (processed.gpkg; raw CSV/XLSX excluded)
+│   ├── fire_incident/  # cleaned incident records
 │   ├── oa/             # demand areas
 │   └── msoa/           # new candidate stations
 └── figure/             
