@@ -1,5 +1,7 @@
 # Optimizing Fire Station Locations: Balancing Service Coverage and Accessibility in the London Borough of Hillingdon
 
+## Description
+
 This project presents a bi-objective spatial optimisation of fire station locations in the London Borough of Hillingdon, jointly considering service coverage and accessibility.
 
 ## Structure
