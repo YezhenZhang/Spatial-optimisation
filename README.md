@@ -20,6 +20,6 @@ This project consists of four parts. The full and detailed description of the pr
 └── figures/             
 ```
 
-## How to run
+## Usage
 
 Open `code.ipynb` from the project root and run all cells in order. Relative paths (e.g. `data/`) assume the working directory is this folder. Required packages are those imported in the first cell.
