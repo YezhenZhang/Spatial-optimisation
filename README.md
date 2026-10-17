@@ -6,10 +6,10 @@ This project presents a bi-objective spatial optimisation of fire station locati
 
 ## Structure
 
-This project consists of four parts. The full and detailed description of the project is in `manuscript.docx`; and `code.ipynb` is the implementation. The data required by the code notebook are stored in `data/`, and its key visual outputs are saved in `figures/`.
+This project consists of four parts. The full and detailed description of the project is in `manuscript.pdf`; and `code.ipynb` is the implementation. The data required by the code notebook are stored in `data/`, and its key visual outputs are saved in `figures/`.
 
 ```
-├── manuscript.docx     
+├── manuscript.pdf     
 ├── code.ipynb          
 ├── data/               
 │   ├── borough/        # London borough boundaries
